@@ -11,7 +11,7 @@ body{
 .nav-container{
     /* border: 2px solid red; */
     display: flex;
-    justify-content: space-around;
+    justify-content: center;
     margin: 0px;
     flex-wrap: wrap;
 }
@@ -115,6 +115,7 @@ body{
 .main-img{
     z-index: -1;
     height:80vh;
+    
 }
 
 .main-button{
